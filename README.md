@@ -95,5 +95,5 @@ Se prosseguirmos e construirmos o projeto Maven, a construção falhará com o e
 Verify them and ignore them with the proper annotation if needed.
 ```
 
-# 5. Conclusion
-In this tutorial, we explored the Maven Animal Sniffer plugin and how it can be used to report API related incompatibilities if any at build time.
+# 5. Conclusão
+Neste tutorial, exploramos o plug-in Maven Animal Sniffer e como ele pode ser usado para relatar incompatibilidades relacionadas à API, se houver, no momento da construção.
